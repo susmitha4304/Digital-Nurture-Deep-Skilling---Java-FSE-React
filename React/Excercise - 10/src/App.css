@@ -1,0 +1,22 @@
+.App{
+    text-align:center;
+    font-family:Arial;
+    padding:20px;
+}
+
+img{
+    margin:20px;
+    border-radius:10px;
+}
+
+.card{
+    margin:20px;
+}
+
+.textRed{
+    color:red;
+}
+
+.textGreen{
+    color:green;
+}
